@@ -6,6 +6,10 @@
   "scripts": {
     "test": ""
   },
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/glopezep/opery-sequelize-adapter"
+  },
   "author": "Guillermo Lopez",
   "license": "MIT",
   "dependencies": {

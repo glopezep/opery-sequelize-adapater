@@ -8,3 +8,7 @@
 ```bash
 npm install --save opery-sequelize-adapter
 ```
+
+## License
+
+MIT © [Guillermo Lopez](http://www.guillermolopez.net)
