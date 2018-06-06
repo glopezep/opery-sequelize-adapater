@@ -1,6 +1,6 @@
 {
   "name": "opery-sequelize-adapter",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Opery Sequelize Adapater",
   "main": "index.js",
   "scripts": {
